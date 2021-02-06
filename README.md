@@ -1,5 +1,5 @@
 # minimalistic-travelblog
-Very minimalistic travelblog for Linux-shell-users (no convenient upload form so far)
+Very minimalistic travelblog for Linux-shell-users
 
 ## Features
 * based on PHP, no database, no included libraries
@@ -50,4 +50,3 @@ Example blogpost (images are enlarged to window width when hovered):
     * set title
     * set password
 * templates
-* ...
